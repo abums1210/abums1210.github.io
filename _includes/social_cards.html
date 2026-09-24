@@ -28,6 +28,20 @@
   </a>
   {% endif %}
 
+  {% if fl.kofi and fl.kofi != "" %}
+  <a href="https://ko-fi.com/{{ fl.kofi }}" target="_blank" rel="noopener" class="social-card">
+    <div class="social-card-name">Ko-fi</div>
+    <div class="social-card-handle">/{{ fl.kofi }}</div>
+  </a>
+  {% endif %}
+
+  {% if fl.patreon and fl.patreon != "" %}
+  <a href="https://patreon.com/{{ fl.patreon }}" target="_blank" rel="noopener" class="social-card">
+    <div class="social-card-name">Patreon</div>
+    <div class="social-card-handle">/{{ fl.patreon }}</div>
+  </a>
+  {% endif %}
+
   {% if fl.twitter and fl.twitter != "" %}
   <a href="https://x.com/{{ fl.twitter }}" target="_blank" rel="noopener" class="social-card">
     <div class="social-card-name">Twitter</div>

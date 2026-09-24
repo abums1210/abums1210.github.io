@@ -7,6 +7,7 @@ tags: gta3 gtavc gtasa icons weapon_icons modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/705271-reliiivcsastories%E2%84%A2-hq-weapon-icons/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 This modification brings the original, low-quality icons of GTA: Liberty City Stories and GTA: Vice City Stories into high-quality format, without losing originality.
 

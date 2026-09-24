@@ -7,6 +7,7 @@ tags: gta3 modding radar map
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/1006911-iii-upstate-liberty-hd-radar/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 HD Radar Maps of Upstate Liberty.  
 This is a combination of DimZet and AdusPL's renders.  

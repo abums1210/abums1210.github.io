@@ -7,6 +7,7 @@ tags: gta3 gtavc gta4 hud radio modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/960992-asi3vc-iveflc-hud-definitive-edition/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 A complete HUD modification which improves exponentially over the original IV HUD CLEO mod by ThirteenAG.
 

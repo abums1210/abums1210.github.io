@@ -1339,8 +1339,62 @@ footer {
     .profile-bio {
       font-size: 18px;
       color: var(--accent-pale);
-      margin: 0 0 30px 0;
+      margin: 0 0 20px 0;
       font-family: $oxford;
+    }
+
+    .profile-support-badges {
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+
+      .support-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 9px 20px;
+        border-radius: 20px;
+        font-family: $oxford;
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none;
+        transition: all 0.25s ease;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+
+        .badge-icon {
+          flex-shrink: 0;
+        }
+
+        &.kofi-badge {
+          background: rgba(255, 94, 91, 0.12);
+          border: 1px solid rgba(255, 94, 91, 0.45);
+          color: #ff8583;
+
+          &:hover {
+            background: #ff5e5b;
+            border-color: #ff5e5b;
+            color: #ffffff;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255, 94, 91, 0.5);
+          }
+        }
+
+        &.patreon-badge {
+          background: rgba(249, 104, 84, 0.12);
+          border: 1px solid rgba(249, 104, 84, 0.45);
+          color: #ff8573;
+
+          &:hover {
+            background: #f96854;
+            border-color: #f96854;
+            color: #ffffff;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(249, 104, 84, 0.5);
+          }
+        }
+      }
     }
 
     .profile-social-section {

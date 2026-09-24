@@ -7,6 +7,7 @@ tags: gta3 gtavc gtasa music audio modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/1006039-asi3vcsa-malk-wan-walkman-styled-in-game-music-player/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 Named after "SUMO" (the in-game parody of Sony Corporation).  
 Play in-game radio stations and MP3 songs while on foot — no need to sit in a car.

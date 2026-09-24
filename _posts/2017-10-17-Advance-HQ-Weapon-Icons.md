@@ -7,6 +7,7 @@ tags: gtaadvance icons weapon_icons modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/898655-advance%E2%84%A2-hq-weapon-icons/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 A modification for any of the GTA 3D era games to bring 2D, 8-bit quality weapon icons from GTA Advance in high quality format. Contains 15 icons + custom Molotov icon.
 

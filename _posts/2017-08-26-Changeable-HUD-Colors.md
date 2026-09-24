@@ -7,6 +7,7 @@ tags: gta3 gtavc gtasa hud colors modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/895032-asiiiivcsa-changeable-hud-colors-v30/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 Now with support for III (full) and SA (limited inbuilt color adjustment support) in addition to VC! Supports v1.0 exes only for all games.
 

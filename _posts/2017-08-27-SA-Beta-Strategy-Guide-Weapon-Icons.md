@@ -7,6 +7,7 @@ tags: gtasa beta icons weapon_icons modding
 ---
 
 To read the original GTAForums post, [click here](https://gtaforums.com/topic/895138-sa-beta-strategy-guide-weapon-icon-remake/).
+If you like my work and want to support my mods, consider donating to [my Ko-fi page](https://ko-fi.com/abums1210) or my [Patreon](https://patreon.com/cw/abums1210). My mods will always be free to use.
 
 Remake of the early GTA San Andreas beta weapon icons featured in the official Strategy Guide in high-resolution detail.
 
