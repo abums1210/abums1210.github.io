@@ -17,7 +17,11 @@ A modification for GTA Vice City which adds GTA VI styled radar, HUD, and menu e
 
 ### Downloads:
 - [NexusMods (v0.5)](https://www.nexusmods.com/grandtheftautovicecity/mods/740)
+- [GTAInside (v0.5)](https://www.gtainside.com/vicecity/mods/modifications/222036-gta-vi-hud-for-vc-v0-5)
+- [LibertyCity (v0.5)](https://libertycity.net/files/243522-gta-6-rectangle-hud.html)
 - [Mediafire Mirror](https://www.mediafire.com/file/lkpeb7us9pnulr7/VIRectHUD_VC_v0p5.zip/file)
+- [Helper Guide (English)](https://www.mediafire.com/file/09zs22hsa21uv0c/Guide+VI+HUD.pdf/file)
+
 
 ### How to Install:
 * You’ll need a v1.0 exe of GTA Vice City to work.
@@ -27,7 +31,7 @@ A modification for GTA Vice City which adds GTA VI styled radar, HUD, and menu e
 * This already comes with the latest widescreen fix by 13AG, ASI loader by 13AG and rwd3d9.dll plugin (for blur filters) and SilentPatch (assuming it’s on a fresh install).
 * The mod still runs without a widescreen fix or SilentPatch, but the Widescreen fix and SilentPatch both add a lot of QOL improvements to improve the Vice City gaming experience. Visit [FusionFix Widescreen Fix](https://fusionfix.io/wfp#gtavc) to know more about WSFix and [Silent's Blog](https://silentsblog.com/2026/07/31/silentpatch-2026-update/) for more info on SilentPatch.
 
-### Features:
+### Features/Changelog:
 
 #### HUD:
 * Stacked Health/Armor/Stamina bars with their own icons.
@@ -66,7 +70,7 @@ A modification for GTA Vice City which adds GTA VI styled radar, HUD, and menu e
 * Cutscene borders option (widescreen fix fork).
 * All menu textures are rendered via .png files using DirectImageRasterizer.
 
-#### Menu (Existing features):
+#### Menu (Existing features from GTAV HUD v4.0):
 * Revamped Menu layouts, completely customizable positioning for each screen.
 * New Keyboard setup and Player Skin setup screens.
 * Reordered Options.
@@ -74,9 +78,9 @@ A modification for GTA Vice City which adds GTA VI styled radar, HUD, and menu e
 * Transparent Blur effects on Menu background and Weapon wheel toggle – turned off by default.
 * Blur effect, colour and saturation are customizable.
 * New frontend textures – Game cover, Menu background (original) and mouse icons.
-* New loading screens – sourced from [LibertyCity](https://libertycity.net/files/gta-vice-city/110095-vice-city-full-hd-loadscreens.html).
-* All menu, HUD, Font textures relocated to `/rect_hud_charlesvercetti` folder. Mod works purely as plug and play now.
-* New `GXT_new.csv` which houses all GXT strings in `/rect_hud_charlesvercetti` folder.
+* New loading screens – sourced from [LibertyCity](https://libertycity.net/files/gta-vice-city/110095-vice-city-full-hd-loadscreens.html). (deprecated)
+* All menu, HUD, Font textures relocated to `/rect_hud_charlesvercetti` folder. Mod works purely as plug and play now. (deprecated)
+* New `GXT_new.csv` which houses all GXT strings in `/rect_hud_charlesvercetti` folder. (now a seperate mod - EasyGXT)
 * New Control bar at bottom right – replaces helper text and improved navigation.
 * New Pause Map screen with HQ map textures and transparent background – customizable.
 * Skip Intro toggle – enabled by default.
