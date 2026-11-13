@@ -16,7 +16,7 @@ A complete HUD modification which improves exponentially over the original IV HU
 ### Downloads:
 - **Prerequisites**:
   - [GTA III Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gta3)
-  - [GTA VC Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtavc)s
+  - [GTA VC Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtavc)
   - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 - **GTA III**:
   - [GTAInside (latest version, deleted from GTAInside due to false positive reports)](https://www.gtainside.com/en/gta3/mods/152394-iv-eflc-hud-definitive-edition-for-gta3/)
