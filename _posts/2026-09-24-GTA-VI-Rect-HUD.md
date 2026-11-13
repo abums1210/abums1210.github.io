@@ -16,10 +16,10 @@ A modification for GTA Vice City which adds GTA VI styled radar, HUD, and menu e
 <!--more-->
 
 ### Downloads:
-- [NexusMods (v0.5)](https://www.nexusmods.com/grandtheftautovicecity/mods/740)
-- [GTAInside (v0.5)](https://www.gtainside.com/vicecity/mods/modifications/222036-gta-vi-hud-for-vc-v0-5)
-- [LibertyCity (v0.5)](https://libertycity.net/files/243522-gta-6-rectangle-hud.html)
-- [Mediafire Mirror](https://www.mediafire.com/file/lkpeb7us9pnulr7/VIRectHUD_VC_v0p5.zip/file)
+- [NexusMods (latest version)](https://www.nexusmods.com/grandtheftautovicecity/mods/740)
+- [GTAInside (latest version)](https://www.gtainside.com/vicecity/mods/modifications/222036-gta-vi-hud-for-vc-v0-5)
+- [LibertyCity (latest version)](https://libertycity.net/files/243522-gta-6-rectangle-hud.html)
+- [Mediafire Mirror (v0.5)](https://www.mediafire.com/file/lkpeb7us9pnulr7/VIRectHUD_VC_v0p5.zip/file)
 - [Helper Guide (English)](https://www.mediafire.com/file/09zs22hsa21uv0c/Guide+VI+HUD.pdf/file)
 
 

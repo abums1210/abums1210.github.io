@@ -13,6 +13,12 @@ Tommy wears a golden watch so why not use a golden watch to display time? It's b
 
 <!--more-->
 
+### Downloads:
+- [Wrist Watch v1.0 VC (Mediafire)](http://www.mediafire.com/file/wj0kjituobh6mat/Wrist_Watch_v1.0_-_VC.rar/file)
+- [Wrist Watch v1.0 SA (Mediafire)](http://www.mediafire.com/file/zqj44o4dui38g92/Wrist_Watch_v1.0_-_SA.rar/file)
+- [Wrist Watch v1.1 VC/SA (Mediafire)](http://www.mediafire.com/file/vi0ish7g4mtsjlm/Wrist+Watch+v1.1.rar/file)
+- [HD Watchfaces SA Pack (Mediafire)](https://www.mediafire.com/file/gr1pz7goxfsxqs4/Gold+Silver_Watch_Pack.rar/)
+
 ### Features:
 * Displays Hours and minutes.
 * SA version displays weekdays.
@@ -23,12 +29,6 @@ Tommy wears a golden watch so why not use a golden watch to display time? It's b
 
 ### Compatibility:
 * Works with GTA VC 1.0 exe and GTA SA US 1.0 exe.
-
-### Downloads:
-- [Wrist Watch v1.0 VC (Mediafire)](http://www.mediafire.com/file/wj0kjituobh6mat/Wrist_Watch_v1.0_-_VC.rar/file)
-- [Wrist Watch v1.0 SA (Mediafire)](http://www.mediafire.com/file/zqj44o4dui38g92/Wrist_Watch_v1.0_-_SA.rar/file)
-- [Wrist Watch v1.1 VC/SA (Mediafire)](http://www.mediafire.com/file/vi0ish7g4mtsjlm/Wrist+Watch+v1.1.rar/file)
-- [HD Watchfaces SA Pack (Mediafire)](https://www.mediafire.com/file/gr1pz7goxfsxqs4/Gold+Silver_Watch_Pack.rar/)
 
 ### Screenshots:
 ![Watch Screenshot](https://www.mediafire.com/convkey/414f/1hel0qjb7x8c28kzg.jpg)

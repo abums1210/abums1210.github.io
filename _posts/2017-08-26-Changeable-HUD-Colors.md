@@ -13,6 +13,9 @@ Now with support for III (full) and SA (limited inbuilt color adjustment support
 
 <!--more-->
 
+### Downloads:
+- [Changeable HUD Colors v3.0 (Mediafire)](https://www.mediafire.com/file/cvhy0vrrydd8y2o/III_VC_SA_ChangeHUDColors_v3.zip/file)
+
 ### Features:
 - Update most HUD element colors (III/VC).
 - Update most HUD shadow colors (III/VC).
@@ -33,9 +36,6 @@ ZoneColor=152 154 82 255
 VehicleColor=194 165 120 255
 TimeColor=194 165 120 255
 ```
-
-### Downloads:
-- [Changeable HUD Colors v3.0 (Mediafire)](https://www.mediafire.com/file/cvhy0vrrydd8y2o/III_VC_SA_ChangeHUDColors_v3.zip/file)
 
 ### Screenshots:
 - GTA III: [Dropbox Preview](https://www.dropbox.com/scl/fi/a2ke95s8f0jnmzojkvghx/III_scrn.png?rlkey=4h2vznkg0ijhgwdmhsqz04ea1&st=sxtfib3i&dl=0)

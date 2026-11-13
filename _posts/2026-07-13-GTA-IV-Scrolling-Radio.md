@@ -13,6 +13,11 @@ An isolated and enhanced version of the GTA IV styled scrolling radio HUD elemen
 
 <!--more-->
 
+### Downloads:
+- [NexusMods (latest version)](https://www.nexusmods.com/gtasanandreas/mods/3033)
+- [GTAInside (latest version)](https://www.gtainside.com/en/vicecity/mods/219603-gta-iv-scrolling-radio-for-gta-vc-and-3/)
+- [Mediafire Mirror (v1.9.9)](https://www.mediafire.com/file/sy8m3ucb1a9bihl/III_VC_SA_ScrollableRadio_v1dot9dot9.zip/file)
+
 ### Features:
 1. Can configure icon size and gap.
 2. Can choose between colorful and grey icons in config (auto-generated after first run).
@@ -33,9 +38,6 @@ An isolated and enhanced version of the GTA IV styled scrolling radio HUD elemen
 5. Fixed Track player icon showing while entering Ambulance/Police Vehicles/Fire trucks.
 6. Added fade out animation.
 
-### Downloads:
-- [NexusMods (v1.8 III/VC/SA)](https://www.nexusmods.com/gtasanandreas/mods/3033)
-- [GTAInside (v1.7 III/VC/SA)](https://www.gtainside.com/en/vicecity/mods/219603-gta-iv-scrolling-radio-for-gta-vc-and-3/)
 
 ### Screenshots:
 ![Screenshot v1.8](https://gtaforums.com/uploads/monthly_2026_07/screenshot.png.c8f36d58e510309b97ea279e38d3e27d.png)

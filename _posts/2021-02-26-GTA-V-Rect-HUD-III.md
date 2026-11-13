@@ -16,7 +16,7 @@ A modification for GTA III which adds rectangular radar and HUD elements based o
 <!--more-->
 
 ### Downloads:
-- [GTAInside (v1.2)](https://www.gtainside.com/en/gta3/mods/161148-gta-v-hud-for-gta-iii-v1-2/)
+- [GTAInside (latest version)](https://www.gtainside.com/en/gta3/mods/161148-gta-v-hud-for-gta-iii-v1-2/)
 - [Mediafire Mirror (v1.2 ASI)](http://www.mediafire.com/file/aopp4b5pnp42wsg/GTA_III_Rect-HUD_v1.2.zip/file)
 - [Mediafire Mirror (v1.0 ASI)](https://www.mediafire.com/file/o9yajof5qu1ee4g/file)
 

@@ -14,9 +14,12 @@ If you like my work and want to support my mods, consider donating to [my Ko-fi 
 <!--more-->
 
 ### Downloads:
-- [NexusMods (III/VC/SA)](https://www.nexusmods.com/gtasanandreas/mods/3045)
-- [Dropbox link (III/VC/SA v1.0)](https://www.dropbox.com/scl/fi/t1yw2ufkb4ijzddl756vz/III_VC_SA_EasyFont-v1.7z?rlkey=tcbbmtczg82ure8et621khtpc&st=xe9rjyri&dl=0)
-- [Dropbox link (Details PDF)](https://www.dropbox.com/scl/fi/cxymeylztf374aajfdafx/EasyFont-v1.0.pdf?rlkey=38zxy6wvisdbu425uyyep9bjr&st=a14vm370&dl=0)
+- [NexusMods (latest version)](https://www.nexusmods.com/gtasanandreas/mods/3045)
+- [Liberty City (latest version)](https://libertycity.net/files/247316-easyfont-ttfotf-font-replacement-system.html)
+- [GTAInside (latest version)](https://www.gtainside.com/sanandreas/mods/modifications/224398-easyfont-v1-2-ttf-otf-hd-font-system-for-sa-vc-iii)
+- [Mediafire Mirror (v1.2 III/VC/SA)](https://www.mediafire.com/file/y7o19cvirxwgmj0/III_VC_SA_EasyFont_v1dot2.zip/file)
+- [Dropbox Mirror (v1.0 III/VC/SA)](https://www.dropbox.com/scl/fi/t1yw2ufkb4ijzddl756vz/III_VC_SA_EasyFont-v1.7z?rlkey=tcbbmtczg82ure8et621khtpc&st=xe9rjyri&dl=0)
+- [Dropbox Link (Details PDF)](https://www.dropbox.com/scl/fi/cxymeylztf374aajfdafx/EasyFont-v1.0.pdf?rlkey=38zxy6wvisdbu425uyyep9bjr&st=a14vm370&dl=0)
 
 ### Changelog v1.2 (last updated on 11/11/2026 20:00 IST):
 - Added GTAVI font presets.

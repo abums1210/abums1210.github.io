@@ -14,6 +14,17 @@ Play in-game radio stations and MP3 songs while on foot — no need to sit in a 
 
 <!--more-->
 
+### Downloads:
+- **GTA III**:
+  - [GTAInside (latest version)](https://www.gtainside.com/en/gta3/mods/218334-walkman-player-for-iii-v1-0/)
+  - [Mediafire Mirror (v1.0)](https://www.mediafire.com/file/9u2vi1er1kg7lku/WalkMan.III.zip/file)
+- **GTA VC**:
+  - [GTAInside (latest version)](https://www.gtainside.com/en/vicecity/mods/218333-walkman-player-for-vc-v1-0/)
+  - [Mediafire Mirror (v1.0)](https://www.mediafire.com/file/7sc2i3ggv8t0fv2/WalkMan.VC.zip/file)
+- **GTA SA**:
+  - [GTAInside (latest version)](https://www.gtainside.com/en/sanandreas/mods/218335-walkman-player-for-sa-v1-0)
+  - [Mediafire Mirror (v1.0)](https://www.mediafire.com/file/fif183nz2m0j3r9/WalkMan.SA.zip/file)
+
 ### What does it do:
 * Plays custom MP3 stations based on folder names and content in `mp3_stations`. Just create new folders inside `mp3_stations` for new stations and fill them with songs.
 * Plays in-game radio stations.
@@ -38,11 +49,6 @@ Play in-game radio stations and MP3 songs while on foot — no need to sit in a 
 * **Enter**: Select MP3 track / radio station
 * **Left / Right**: Change stations
 * **+ / -**: Adjust volume
-
-### Downloads:
-- **GTA III**: [GTAInside (v1.0)](https://www.gtainside.com/en/gta3/mods/218334-walkman-player-for-iii-v1-0/) | [Mediafire Mirror](https://www.mediafire.com/file/9u2vi1er1kg7lku/WalkMan.III.zip/file)
-- **GTA VC**: [GTAInside (v1.0)](https://www.gtainside.com/en/vicecity/mods/218333-walkman-player-for-vc-v1-0/) | [Mediafire Mirror](https://www.mediafire.com/file/7sc2i3ggv8t0fv2/WalkMan.VC.zip/file)
-- **GTA SA**: [GTAInside (v1.0)](https://www.gtainside.com/en/sanandreas/mods/218335-walkman-player-for-sa-v1-0) | [Mediafire Mirror](https://www.mediafire.com/file/fif183nz2m0j3r9/WalkMan.SA.zip/file)
 
 ### Screenshots:
 ![WalkMan Screenshot](https://gtaforums.com/uploads/monthly_2026_05/image.png.1dc5afee6d0dc7aef511eafde5f27b7d.png)

@@ -16,8 +16,8 @@ A modification for GTA Vice City which adds rectangular radar, HUD, and menu ele
 <!--more-->
 
 ### Downloads:
-- [NexusMods (v4.0)](https://www.nexusmods.com/grandtheftautovicecity/mods/696)
-- [GTAInside (v4.0)](https://www.gtainside.com/en/vicecity/mods/152821-gta-v-hud-for-vc-v3-0/)
+- [NexusMods (latest version)](https://www.nexusmods.com/grandtheftautovicecity/mods/696)
+- [GTAInside (latest version)](https://www.gtainside.com/en/vicecity/mods/152821-gta-v-hud-for-vc-v3-0/)
 - [Mediafire Mirror (v4.0 ASI)](https://www.mediafire.com/file/r6p398hcjxh3nte/GTA_VC_Rect-HUD_v.4.0.zip/file)
 - [Mediafire Mirror (v3.2 ASI)](http://www.mediafire.com/file/e4gr8kkqu0suoce/GTA_VC_Rect-HUD_v3.2.zip/file)
 - [Mediafire Mirror (v3.0 ASI)](http://www.mediafire.com/file/68ysaw1tmukifpv/GTA_VC_Rect-HUD_v3.0.zip/file)
