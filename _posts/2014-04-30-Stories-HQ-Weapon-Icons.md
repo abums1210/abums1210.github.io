@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[REL|III|VC|SA] Stories™ HQ Weapon Icons"
+title: "[REL/III/VC/SA] Stories™ HQ Weapon Icons"
 date: 2014-04-30 12:00:00 +0530
 category: gtamodding
 tags: gta3 gtavc gtasa icons weapon_icons modding

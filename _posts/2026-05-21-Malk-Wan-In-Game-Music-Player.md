@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI|3|VC|SA] Malk-Wan - WalkMan styled in-game music player"
+title: "[ASI/III/VC/SA] Malk-Wan - WalkMan styled in-game music player"
 date: 2026-05-21 12:00:00 +0530
 category: gtamodding
 tags: gta3 gtavc gtasa music audio modding

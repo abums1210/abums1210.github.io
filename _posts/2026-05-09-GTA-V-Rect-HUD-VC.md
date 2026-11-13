@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI|VC] GTA V Rect-HUD v4.0"
+title: "[ASI/VC] GTA V Rect-HUD v4.0"
 date: 2026-05-09 23:58:00 +0530
 category: gtamodding
 tags: gtavc gta5 hud radar menu modding

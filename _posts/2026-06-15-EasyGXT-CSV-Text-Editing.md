@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI|III|VC|SA] EasyGXT v1.2 - Live CSV Text Editing"
+title: "[ASI/III/VC/SA] EasyGXT v1.2 - Live CSV Text Editing"
 date: 2026-06-15 12:00:00 +0530
 category: gtamodding
 tags: gta3 gtavc gtasa text modding

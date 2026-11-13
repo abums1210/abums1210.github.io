@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI|III] GTA V Rect-HUD v1.2"
+title: "[ASI/III] GTA V Rect-HUD v1.2"
 date: 2021-02-26 02:31:00 +0530
 category: gtamodding
 tags: gta3 gta5 hud radar modding

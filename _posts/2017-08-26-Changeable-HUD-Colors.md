@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI|III|VC|SA] Changeable HUD Colors v3.0"
+title: "[ASI/III/VC/SA] Changeable HUD Colors v3.0"
 date: 2017-08-26 12:00:00 +0530
 category: gtamodding
 tags: gta3 gtavc gtasa hud colors modding
