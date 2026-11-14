@@ -15,6 +15,7 @@ A lightweight IV HUD implementation with no texture backend.
 
 ### Downloads:
 - [NexusMods (latest version)](https://www.nexusmods.com/gtasanandreas/mods/3204)
+- [GTAInside (latest version)](https://www.gtainside.com/gta3/mods/modifications/224523-gta-iv-hud-lite-edition-for-iii-vc-sa)
 - [Mediafire Mirror (v1.0)](https://www.mediafire.com/file/4ot8nvrncul5awf/IVHUDLite+v1dot0.zip/file)
 
 ### Requirements:
