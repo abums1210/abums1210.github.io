@@ -16,7 +16,9 @@ GTA IV styled Animated loading screens, with music and customizable features.
 ### Download:
 * [NexusMods (latest)](https://www.nexusmods.com/gtasanandreas/mods/3229)
 * [LibertyCity.net (latest)](https://libertycity.net/files/248100-gta-iv-animated-load-screens.html)
+* [GTAInside (latest)](https://www.gtainside.com/sanandreas/mods/modifications/224917-gta-iv-animated-load-screens-for-sa-vc-iii)
 * [Mediafire mirror (v1.0)](https://www.mediafire.com/file/68qawrlc40j0enq/III_VC_SA_AnimLoadScreens_v1p0.zip/file)
+* Mediafire have restricted the file due to the music inside, I'll try to find another file host.
 
 ### Requirements:
 * GTA III/VC/SA v1.0 exe.
