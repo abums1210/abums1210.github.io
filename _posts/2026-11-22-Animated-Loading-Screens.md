@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ASI/III/VC/SA] GTA IV Animated Load Screens"
+title: "[ASI/III/VC/SA] GTA IV Animated Load Screens v1.1"
 date: 2026-11-22 22:30:00 +0530
 category: gtamodding
 tags: gta3 gtavc gtasa loadscreen animation modding
@@ -17,8 +17,18 @@ GTA IV styled Animated loading screens, with music and customizable features.
 * [NexusMods (latest)](https://www.nexusmods.com/gtasanandreas/mods/3229)
 * [LibertyCity.net (latest)](https://libertycity.net/files/248100-gta-iv-animated-load-screens.html)
 * [GTAInside (latest)](https://www.gtainside.com/sanandreas/mods/modifications/224917-gta-iv-animated-load-screens-for-sa-vc-iii)
-* [Mediafire mirror (v1.0)](https://www.mediafire.com/file/68qawrlc40j0enq/III_VC_SA_AnimLoadScreens_v1p0.zip/file)
-* Mediafire have restricted the file due to the music inside, I'll try to find another file host.
+* [Dropbox mirror (v1.1)](https://www.dropbox.com/scl/fi/deb22jlczaaob67dvw4id/III_VC_SA_AnimLoadScreens_v1p1.zip?rlkey=q4xh1a08qcqdfyos8h4gramt4&st=may64npq&dl=0)
+
+### Changelog:
+
+#### Version 1.1 update:
+1. Fix loading music playing post loading screen issue for some users
+2. Add ultrawide support
+3. Update certain image layers and layer sequences.
+
+#### Version 1.0 update:
+1. Upload file
+
 
 ### Requirements:
 * GTA III/VC/SA v1.0 exe.
@@ -82,7 +92,7 @@ When you run the mod first time, `AnimLoadScreens.ini` is generated in your `scr
 * **`ProgressBarBackgroundColor`** (default: `0 0 0 200`): Outer border and background bar color in `R G B A` format.
 
 #### `[LoadingMusic]`
-* **`EnableLoadingMusic`** (`1` = yes, `0` = no): Stream background loading music from `other_assets\loading.mp3`.
+* **`EnableLoadingMusic`** (`1` = yes, `0` = no): Stream background loading music from `other_assets\loading.mp3`. In GTASA, disabling this now plays vanilla music instead.
 * **`LoadingMusicStartPos`** (default: `0.20` for III, `0.23` for VC, `0.25` for SA): Starting track offset ratio (`0.0` = beginning, `0.5` = middle). Set this to decide from which point in the track the music plays.
 * **`LoadingMusicFadeInMs`** (default: `1500`): Fade-in duration in milliseconds when music starts.
 * **`LoadingMusicFadeOutMs`** (default: `1000`): Fade-out duration in milliseconds when loading completes and world audio begins.
@@ -129,6 +139,13 @@ Unsuffixed layers move in opposite directions for each subsequent foreground lay
 
 
 ---
+### Screenshots:
+
+![Screenshot 1](https://staticdelivery.nexusmods.com/mods/955/images/3229/3229-1795371389-1610588848.jpg)
+![Screenshot 2](https://staticdelivery.nexusmods.com/mods/955/images/3229/3229-1795371391-1759619290.jpg)
+![Screenshot 3](https://staticdelivery.nexusmods.com/mods/955/images/3229/3229-1795371393-20401074.jpg)
+![Screenshot 4](https://staticdelivery.nexusmods.com/mods/955/images/3229/3229-1795371393-1771870657.jpg)
+![Screenshot 5](https://staticdelivery.nexusmods.com/mods/955/images/3229/3229-1795371395-845662287.jpg)
 
 ### Video:
 
